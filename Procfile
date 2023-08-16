@@ -1,1 +1,1 @@
-web: uvicorn main:app --port 3033
+web: uvicorn main:app 
